@@ -1,0 +1,9 @@
+c:\users\1291324\documents\visual studio 2015\Projects\guiBoxMove\guiBoxMove\bin\Debug\guiBoxMove.exe.config
+c:\users\1291324\documents\visual studio 2015\Projects\guiBoxMove\guiBoxMove\obj\Debug\guiBoxMove.csprojResolveAssemblyReference.cache
+c:\users\1291324\documents\visual studio 2015\Projects\guiBoxMove\guiBoxMove\obj\Debug\guiBoxMove.frmMain.resources
+c:\users\1291324\documents\visual studio 2015\Projects\guiBoxMove\guiBoxMove\obj\Debug\guiBoxMove.Properties.Resources.resources
+c:\users\1291324\documents\visual studio 2015\Projects\guiBoxMove\guiBoxMove\obj\Debug\guiBoxMove.csproj.GenerateResource.Cache
+c:\users\1291324\documents\visual studio 2015\Projects\guiBoxMove\guiBoxMove\bin\Debug\guiBoxMove.exe
+c:\users\1291324\documents\visual studio 2015\Projects\guiBoxMove\guiBoxMove\bin\Debug\guiBoxMove.pdb
+c:\users\1291324\documents\visual studio 2015\Projects\guiBoxMove\guiBoxMove\obj\Debug\guiBoxMove.exe
+c:\users\1291324\documents\visual studio 2015\Projects\guiBoxMove\guiBoxMove\obj\Debug\guiBoxMove.pdb
